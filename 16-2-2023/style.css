@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.container{
+    background-color: lightblue;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.form-group{
+    font-size: 18px;
+}
+.drop-down option{
+    position: relative;
+    padding-left:10px;
+}
